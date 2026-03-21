@@ -19,7 +19,6 @@
 ## About Me
 
 - Interested in large language models, reasoning, memory, multimodal models, and agents.
-- Completed the Summer Exchange Program at the National University of Singapore in July 2025.
 - Enjoy building both research-oriented projects and practical systems.
 
 ## Current Focus
